@@ -1,0 +1,4 @@
+Feedback_ID,Date,Customer_ID,Channel,Feedback_Text,Rating,Category,Resolved_Status
+F001,2025-06-08,CUST101,Website,"Loved the quality of the hoodie, very comfortable!",5,Praise,Resolved
+F002,2025-06-09,CUST104,App,"Delivery was delayed by 3 days.",2,Complaint,Pending
+F003,2025-06-10,CUST102,Social Media,"Can you add more color options?",4,Suggestion,Resolved
